@@ -43,6 +43,7 @@ Through the lens of Bhakti, we will explore topics such as:
   <a href="https://www.w3schools.com/js/"> <img src="https://img.icons8.com/color/70/000000/javascript--v1.png" alt="JS" /></a>
   <a href="https://www.digitalocean.com/"> <img src="https://img.icons8.com/ios-filled/70/0069ff/digitalocean.png" alt="DigitalOcean" /></a>
 </p>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -55,6 +56,7 @@ Through the lens of Bhakti, we will explore topics such as:
 ![image](https://user-images.githubusercontent.com/73993775/222956011-a4405402-e9ce-4eed-80c4-081f5b76b81e.png)
 ![image](https://user-images.githubusercontent.com/73993775/222956526-707cd2d8-f759-4112-b8b4-51718fabb656.png)
 ![image](https://user-images.githubusercontent.com/73993775/222956542-f994abe4-a53b-4ab4-a8a8-8cc5e905a3ee.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <h3>About Page :-</h3>
@@ -64,6 +66,7 @@ Through the lens of Bhakti, we will explore topics such as:
 <h3>Destinations Posts Page :-</h3>
 
 ![image](https://user-images.githubusercontent.com/73993775/222956265-824bc440-5c39-4bef-a661-c9d60840242f.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <h3>Bhakti Pages :-</h3>
@@ -71,11 +74,13 @@ Through the lens of Bhakti, we will explore topics such as:
 ![image](https://user-images.githubusercontent.com/73993775/222956610-4cb09a37-4d7b-42f2-8598-f7f24c1e0be7.png)<br><br>
 ![image](https://user-images.githubusercontent.com/73993775/222956627-db811b99-dd65-4900-920b-37db6464abcc.png)<br><br>
 ![image](https://user-images.githubusercontent.com/73993775/222956615-7e3d6433-a6b5-43d9-8fac-436c1e0280bd.png)<br><br>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ![image](https://user-images.githubusercontent.com/73993775/222956635-d03ce35a-f8d8-4bf9-aae6-caf1cf43f057.png)<br><br>
 ![image](https://user-images.githubusercontent.com/73993775/222956646-4b54ca6b-8c47-4b4f-bf98-35376281daf4.png)<br><br>
 ![image](https://user-images.githubusercontent.com/73993775/222956663-4d7b7b63-0a01-4302-b27c-75fda759ae89.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <h3>Hymns Page :-</h3>
@@ -89,6 +94,7 @@ Through the lens of Bhakti, we will explore topics such as:
 <h3>Contact Page :-</h3>
 
 ![image](https://user-images.githubusercontent.com/73993775/222956773-ec27f9b2-ae35-4683-aab0-4f762b0533c9.png)<br>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -98,7 +104,7 @@ Through the lens of Bhakti, we will explore topics such as:
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="150px" width="150px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b></sub>
+<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b><br><a href="https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
 </td>
 </tr>
 </table>
@@ -116,4 +122,6 @@ You can contact me through any social handles mentioned in this bio link tree.<b
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <h3>Give it a 🌟 if you ❤ the website. Happy Coding👨‍💻</h3>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
