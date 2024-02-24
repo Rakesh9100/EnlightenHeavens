@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 
-<h1> Website: <a href="https://enlightenheavens.live/">Visit Now🌐</a></h1>
+<h1 align="center"> Website: <a href="https://enlightenheavens.live/">Visit Now🌐</a></h1>
 
 <h2>Table of Contents🧾</h2>
 
